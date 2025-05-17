@@ -1,0 +1,7 @@
+[console_scripts]
+bigcodebench.evaluate = bigcodebench.evaluate:main
+bigcodebench.generate = bigcodebench.generate:main
+bigcodebench.inspect = bigcodebench.inspect:main
+bigcodebench.legacy_sanitize = bigcodebench.legacy_sanitize:main
+bigcodebench.sanitize = bigcodebench.sanitize:main
+bigcodebench.syncheck = bigcodebench.syncheck:main
